@@ -6,12 +6,18 @@ I'm a random person who enjoys coding in python and shell. My main focus is usin
 
 At some point I'll probably learn some C++ or other C based language, but for now, I'm sticking to Python. I also plan to learn how to use libraries like PyGame to make games.
 
+My favorite OS's to work with are Ubuntu Linux and Windows 10, although I like Windows a lot less.
+
 Some of my friends are @ComradeCitrusFruit and I work with them on some projects!
 
-# ***Languages I Know***
+
+# Header level one ***Languages I Know***
 
 - Python3
   - TensorFlow/Keras
   - Flask
 - Bash
 - Some Batch and Powershell
+
+
+# Header level one ***Contact Me***
