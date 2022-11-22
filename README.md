@@ -11,7 +11,7 @@ My favorite OS's to work with are Ubuntu Linux and Windows 10, although I like W
 Some of my friends are @ComradeCitrusFruit and I work with them on some projects!
 
 
-# Header level one ***Languages I Know***
+## ***Languages I Know***
 
 - Python3
   - TensorFlow/Keras
@@ -20,4 +20,4 @@ Some of my friends are @ComradeCitrusFruit and I work with them on some projects
 - Some Batch and Powershell
 
 
-# Header level one ***Contact Me***
+## ***Contact Me***
