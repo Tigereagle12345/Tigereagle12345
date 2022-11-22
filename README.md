@@ -4,7 +4,7 @@ I'm a random person who enjoys coding in python and shell. My main focus is usin
 
 At some point I'll probably learn some C++ or other C based language, but for now, I'm sticking to Python. I also plan to learn how to use libraries like PyGame                                                                  to make games.
 
-#                                 Some of my friends are @ComradeCitrusFruit and I work with them on some projects!
+                                 Some of my friends are @ComradeCitrusFruit and I work with them on some projects!
 
 # ***Languages I Know***
 - Python3
