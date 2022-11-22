@@ -23,4 +23,4 @@ Some of my friends are @ComradeCitrusFruit and I work with them on some projects
 
 ## ***Contact Me***
 
-Email: *[Email](pythonisgreat17@gmail.com)
+Email: *<pythonisgreat17@gmail.com>*
