@@ -29,5 +29,4 @@ Address: A Galaxy Far Far Away
 
 IP Address: [142.251.46.206](142.251.46.206)
 
-
-&lt;ip&gt;142.251.46.206&lt;ip&gt;
+<ip>142.251.46.206<\ip>
