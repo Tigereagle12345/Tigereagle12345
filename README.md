@@ -24,4 +24,5 @@ Some of my friends are @ComradeCitrusFruit and I work with them on some projects
 ## ***Contact Me***
 
 Email:  *<pythonisgreat17@gmail.com>*
+
 Address: A Galaxy Far Far Away
