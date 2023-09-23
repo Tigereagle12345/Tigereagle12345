@@ -14,11 +14,10 @@ Some of my friends are @ComradeCitrusFruit and I work with them on some projects
 
 ## ***Languages I Know***
 
-- Python3
-  - TensorFlow
-  - Keras
-  - Flask
+- Python
 - Bash
+- HTML & CSS
+- Javascript
 - Some Batch and Powershell
 
 
